@@ -1,5 +1,5 @@
 # Here4U BLOG
-The web application written in PHP
+The web application written in PHP.
 It driven by a backend database (MySQL / phpMyAdmin)
 It includes:
 o Registration & Login page
